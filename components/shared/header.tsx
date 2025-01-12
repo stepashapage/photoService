@@ -1,7 +1,6 @@
 "use client";
 import { cn } from "@/lib/utils";
 import Link from "next/link";
-import Image from "next/image";
 import React, { useState, useEffect } from "react";
 import { ModalHeader } from "./modalHeader";
 import { ModalRegister } from "./modalRegister";
